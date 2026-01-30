@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog! HOGGY
+title: Welcome to my blog!
 ---
